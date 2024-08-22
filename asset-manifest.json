@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-dar-amenda/static/css/main.a44e5cdd.css",
+    "main.js": "/portfolio-dar-amenda/static/js/main.c29a5887.js",
+    "static/js/787.354e309c.chunk.js": "/portfolio-dar-amenda/static/js/787.354e309c.chunk.js",
+    "static/media/mainbg.jpeg": "/portfolio-dar-amenda/static/media/mainbg.8cf0e80f2b01d8a0e028.jpeg",
+    "index.html": "/portfolio-dar-amenda/index.html",
+    "main.a44e5cdd.css.map": "/portfolio-dar-amenda/static/css/main.a44e5cdd.css.map",
+    "main.c29a5887.js.map": "/portfolio-dar-amenda/static/js/main.c29a5887.js.map",
+    "787.354e309c.chunk.js.map": "/portfolio-dar-amenda/static/js/787.354e309c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a44e5cdd.css",
+    "static/js/main.c29a5887.js"
+  ]
+}
